@@ -11,3 +11,4 @@ CARA MENJALANKAN PROJECT
 
 USERNAME : admin
 PASSWORD : admin1234
+![Screenshot (455)](https://github.com/fikanurhasari/Aplikasi-Prediksi-Kelulusan-Mahasiswa/assets/80502355/effc7083-ebe4-4fbd-9c20-ccabbf511320)
